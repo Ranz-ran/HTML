@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h01/Index.html" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,30 @@
       <option name="presentableId" value="Default" />
       <updated>1607417981663</updated>
       <workItem from="1607417983035" duration="4763000" />
-      <workItem from="1607599243969" duration="1431000" />
+      <workItem from="1607599243969" duration="2983000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1607601395935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607601395935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1607601551342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607601551342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1607601629105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607601629105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
