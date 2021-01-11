@@ -11,8 +11,8 @@ Een titel <h1> om de pagina mee te beginnen over een onderwerp naar keuze (bijv 
 3. Een link naar de andere pagina...
 
 4. Pagina met een artikel over je favoriete onderwerp
-<h1> - heading met het onderwerp
-<h3> - heading met de naam van het artikel
+><h1> - heading met het onderwerp
+><h3> - heading met de naam van het artikel
 Artikeltekst (zelf verzinnen)
 
 5. Een geordende lijst met links naar externe websites die gaan over je onderwerp
