@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="dingen veranderd bij opdracht 1">
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 2 bijna af">
+      <change afterPath="$PROJECT_DIR$/h02/Gezond.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/Sport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01/Opdr1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h02/Hallo World.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/h02/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h02/opdracht" beforeDir="false" afterPath="$PROJECT_DIR$/h02/opdracht" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,8 @@
       <workItem from="1609846861905" duration="600000" />
       <workItem from="1609855128134" duration="17000" />
       <workItem from="1609855424188" duration="135000" />
-      <workItem from="1610358082892" duration="12111000" />
+      <workItem from="1610358082892" duration="12178000" />
+      <workItem from="1610443349605" duration="3363000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610371917714</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Opdracht 2 bijna af">
+      <created>1610405402348</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610405402348</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +167,7 @@
     <MESSAGE value="h01 af" />
     <MESSAGE value="h02 Hallo World pagina af" />
     <MESSAGE value="dingen veranderd bij opdracht 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dingen veranderd bij opdracht 1" />
+    <MESSAGE value="Opdracht 2 bijna af" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2 bijna af" />
   </component>
 </project>
