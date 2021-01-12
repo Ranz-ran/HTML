@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 2 bijna af">
-      <change afterPath="$PROJECT_DIR$/h02/Gezond.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h02/Sport.html" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 2 af">
+      <change afterPath="$PROJECT_DIR$/h02/Gezond.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/Image/Schermafbeelding-2019-09-27-om-14.24.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/Image/paard.jfif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h02/Gezond.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/Gezond.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h02/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,7 +41,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bier_hier" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +50,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\PhpstormProjects\HTML\h02\Image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\PhpstormProjects\HTML\h02" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +77,7 @@
       <workItem from="1609855128134" duration="17000" />
       <workItem from="1609855424188" duration="135000" />
       <workItem from="1610358082892" duration="12178000" />
-      <workItem from="1610443349605" duration="3363000" />
+      <workItem from="1610443349605" duration="8020000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -144,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610405402348</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Opdracht 2 bijna af">
+      <created>1610455667720</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610455667721</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +187,7 @@
     <MESSAGE value="h02 Hallo World pagina af" />
     <MESSAGE value="dingen veranderd bij opdracht 1" />
     <MESSAGE value="Opdracht 2 bijna af" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2 bijna af" />
+    <MESSAGE value="Opdracht 2 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2 af" />
   </component>
 </project>
