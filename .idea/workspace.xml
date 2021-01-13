@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 2 af">
-      <change afterPath="$PROJECT_DIR$/h02/Gezond.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h02/Image/Schermafbeelding-2019-09-27-om-14.24.51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h02/Image/paard.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h03/een.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h03/twee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h02/Gezond.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/Gezond.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h02/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bier_hier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -77,7 +75,9 @@
       <workItem from="1609855128134" duration="17000" />
       <workItem from="1609855424188" duration="135000" />
       <workItem from="1610358082892" duration="12178000" />
-      <workItem from="1610443349605" duration="8020000" />
+      <workItem from="1610443349605" duration="9835000" />
+      <workItem from="1610472703921" duration="5000" />
+      <workItem from="1610543900517" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610455667721</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Opdracht 2 af">
+      <created>1610462547845</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610462547845</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
