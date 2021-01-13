@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 2 af">
-      <change afterPath="$PROJECT_DIR$/h03/een.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/twee.html" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 3.1 af">
+      <change afterPath="$PROJECT_DIR$/h03/twee.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h03/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/twee.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/twee.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -77,7 +76,7 @@
       <workItem from="1610358082892" duration="12178000" />
       <workItem from="1610443349605" duration="9835000" />
       <workItem from="1610472703921" duration="5000" />
-      <workItem from="1610543900517" duration="5177000" />
+      <workItem from="1610543900517" duration="12130000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610462547845</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Opdracht 3.1 af">
+      <created>1610551649720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610551649720</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +201,7 @@
     <MESSAGE value="dingen veranderd bij opdracht 1" />
     <MESSAGE value="Opdracht 2 bijna af" />
     <MESSAGE value="Opdracht 2 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2 af" />
+    <MESSAGE value="Opdracht 3.1 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3.1 af" />
   </component>
 </project>
