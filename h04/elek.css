@@ -14,5 +14,6 @@ header{
 #tabel{
     float: right;
     margin: 50px;
-
+    padding-right: 150px;
+    padding-bottom: 300px;
 }
