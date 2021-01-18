@@ -1,3 +1,7 @@
+body{
+    max-height: 700px;
+}
+
 nav{
     margin-top: 20px;
     background-color: black;
@@ -8,5 +12,7 @@ header{
 }
 
 #tabel{
- float: right;
+    float: right;
+    margin: 50px;
+
 }

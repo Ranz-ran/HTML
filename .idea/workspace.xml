@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h03 3 af">
-      <change afterPath="$PROJECT_DIR$/h04/Image4/elektrische-installatie-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Opdr1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Opdr1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/elek.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/elek.html" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h04 af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h04/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/elek.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/elek.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,7 @@
       <workItem from="1610807005487" duration="1795000" />
       <workItem from="1610961857005" duration="44000" />
       <workItem from="1610962599752" duration="9704000" />
-      <workItem from="1610984609525" duration="2904000" />
+      <workItem from="1610984609525" duration="4187000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -194,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610579099798</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="h03 3 af">
+      <created>1610998748993</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610998748994</updated>
+    </task>
+    <task id="LOCAL-00017" summary="h04 af">
+      <created>1610998780296</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610998780296</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +230,7 @@
     <MESSAGE value="Opdracht 2 af" />
     <MESSAGE value="Opdracht 3.1 af" />
     <MESSAGE value="h03 3 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h03 3 af" />
+    <MESSAGE value="h04 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h04 af" />
   </component>
 </project>
