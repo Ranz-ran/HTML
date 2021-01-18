@@ -1,0 +1,27 @@
+body{
+    background-color: yellow;
+    max-width: 960px;
+    padding: 20px;
+}
+
+header{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: red;
+    padding: 10px;
+    max-width: 960px;
+    max-height: 50px;
+}
+section{
+    margin-top: 20px;
+    border: 1px;
+    background-color: green;
+    max-width: 960px;
+}
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    background-color: black;
+    max-width: 960px;
+    max-height: 50px;
+}

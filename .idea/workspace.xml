@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="Opdracht 3.1 af">
-      <change afterPath="$PROJECT_DIR$/h03/twee.css" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h03 3 af">
+      <change afterPath="$PROJECT_DIR$/h04/Image4/elektrische-installatie-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Opdr1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Opdr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/elek.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/elek.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h03/twee.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/twee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bier_hier" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\PhpstormProjects\HTML\h04\Image4" />
       <recent name="C:\Users\ritak\PhpstormProjects\HTML\h02\Image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +81,13 @@
       <workItem from="1610358082892" duration="12178000" />
       <workItem from="1610443349605" duration="9835000" />
       <workItem from="1610472703921" duration="5000" />
-      <workItem from="1610543900517" duration="12130000" />
+      <workItem from="1610543900517" duration="12179000" />
+      <workItem from="1610606367118" duration="9248000" />
+      <workItem from="1610700033307" duration="2387000" />
+      <workItem from="1610807005487" duration="1795000" />
+      <workItem from="1610961857005" duration="44000" />
+      <workItem from="1610962599752" duration="9704000" />
+      <workItem from="1610984609525" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -176,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610551649720</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="h03 3 af">
+      <created>1610579099798</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610579099798</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +220,7 @@
     <MESSAGE value="Opdracht 2 bijna af" />
     <MESSAGE value="Opdracht 2 af" />
     <MESSAGE value="Opdracht 3.1 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3.1 af" />
+    <MESSAGE value="h03 3 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h03 3 af" />
   </component>
 </project>
