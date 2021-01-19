@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h04 af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h04/elek.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/elek.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,8 @@
       <workItem from="1610807005487" duration="1795000" />
       <workItem from="1610961857005" duration="44000" />
       <workItem from="1610962599752" duration="9704000" />
-      <workItem from="1610984609525" duration="4187000" />
+      <workItem from="1610984609525" duration="5018000" />
+      <workItem from="1611043616460" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -203,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610998780296</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="h04 af">
+      <created>1611000760498</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611000760498</updated>
+    </task>
+    <task id="LOCAL-00019" summary="h04 af">
+      <created>1611000875323</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611000875323</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
