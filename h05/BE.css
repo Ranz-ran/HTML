@@ -1,0 +1,33 @@
+body{
+    padding: 20px;
+    width: 700px;
+    background-color: antiquewhite;
+}
+main{
+    width: 900px;
+}
+
+.title{
+    max-width: 400px;
+}
+
+.befotos{
+    width: 450px;
+    height: 300px;
+    padding: 10px;/*binnen kant van element bijv. <div>*/
+    float: left;
+}
+#section1{
+    float: left;
+
+}
+.befotos2{
+    width: 400px;
+    height: 85px;
+    padding: 10px;
+    display: block;
+    float: right;
+}
+#section2{
+
+}
