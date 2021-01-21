@@ -13,33 +13,17 @@ form ul li input{
     left: 150px;
 }
 
-
-section {
-    width: 50%;
-    float: left;
-}
-
-
-#textarea {
-    width: 400px;
+#omschrijving {
+    width: 20%;
     padding: 10px;
 }
 
-#omschrijving{
-    position: absolute;
-}
 
 input {
-    float: right;
     width: 150px;
 }
 
 
 select {
-    float: right;
     width: 150px;
-}
-
-textarea {
-    float: right;
 }
