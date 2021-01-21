@@ -29,6 +29,7 @@ main{
     float: right;
 }
 #section2{
+    display: block;
 }
 .articles{
 
