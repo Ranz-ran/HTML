@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>formulier</title>
+    <link rel="stylesheet" type="text/css" href="formulieren.css">
+</head>
+<body>
+<header><h1>Voorbeeldformulier</h1></header>
+<form action="login.php" method="get">
+
+    <ul>
+        <li>
+            <label for="voornaam">Voornaam:</label>
+            <input type="text" name="voornaam" id="voornaam">
+        </li>
+        <li>
+            <label for="tussenvoegsel">Tussenvoegsel:</label>
+            <input type="text" name="tussenvoegsel" id="tussenvoegsel">
+        </li>
+        <li>
+            <label for="achternaam">Achternaam:</label>
+            <input type="text" name="achternaam" id="achternaam">
+        </li>
+
+        <li>
+            <div id="textarea">
+                <label for="omschrijving">Omschrijving</label>
+                <textarea name="omschrijving" id="omschrijving" cols="32" rows="7"></textarea>
+            </div>
+        <li>
+            <label>Geslacht:</label>
+            <input type="radio" name="geslacht" value="man/">
+            &nbsp;Man
+
+            <input type="radio" name="geslacht" value="vrouw/">
+            &nbsp;Vrouw
+        </li>
+        <li>
+            <label>Oog kleur:</label>
+            <select name="Oog kleur">
+                <option></option>
+                <option>bruin</option>
+                <option>blauw</option>
+                <option>groen</option>
+            </select>
+        </li>
+    </ul>
+    <div>
+        <label for="geboortedatum">Geboortedatum</label>
+        <input type="date" id="geboortedatum" name="geboortedatum">
+    </div>
+
+
+
+
+    <div>
+        <label form="lekker-eten">Lekker eten:</label>
+        <input type="checkbox" name="lekker-eten" value="patat">
+        <span class="checkbox">Patat</span><br>
+        <input type="checkbox" name="lekker-eten" value="bruine bonen">
+        <span class="checkbox">Bruine bonen</span><br>
+        <input type="checkbox" name="lekker-eten" value="linzen">
+        <span class="checkbox">Linzen</span>
+    </div>
+</form>
+</body>
+</html>

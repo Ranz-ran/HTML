@@ -1,0 +1,45 @@
+body{
+    font-family: "Calibri Light";
+}
+form ul{
+    list-style-type: none;
+    padding: 0;
+}
+form ul li {
+    padding: 20px;
+}
+form ul li input{
+    position: absolute;
+    left: 150px;
+}
+
+
+section {
+    width: 50%;
+    float: left;
+}
+
+
+#textarea {
+    width: 400px;
+    padding: 10px;
+}
+
+#omschrijving{
+    position: absolute;
+}
+
+input {
+    float: right;
+    width: 150px;
+}
+
+
+select {
+    float: right;
+    width: 150px;
+}
+
+textarea {
+    float: right;
+}
