@@ -8,7 +8,6 @@
 <body>
 <header><h1>Voorbeeldformulier</h1></header>
 <form action="login.php" method="get">
-
     <ul>
         <li>
             <label for="voornaam">Voornaam:</label>
@@ -22,16 +21,12 @@
             <label for="achternaam">Achternaam:</label>
             <input type="text" name="achternaam" id="achternaam">
         </li>
-
-        <li>
-            <label for="omschrijving">Omschrijving</label>
-            <textarea name="omschrijving" id="omschrijving"></textarea>
         <li>
             <label>Geslacht:</label>
-            <input type="radio" name="geslacht" value="man/">
+            <input type="radio" name="geslacht" value="man"/>
             &nbsp;Man
 
-            <input type="radio" name="geslacht" value="vrouw/">
+            <input type="radio" name="geslacht" value="vrouw"/>
             &nbsp;Vrouw
         </li>
         <li>
@@ -43,16 +38,20 @@
                 <option>groen</option>
             </select>
         </li>
+
+        <li>
+            <label for="geboortedatum">Geboortedatum</label>
+            <input type="date" id="geboortedatum" name="geboortedatum">
+        </li>
+
+        <li>
+            <label for="omschrijving">Omschrijving</label>
+            <textarea name="omschrijving" id="omschrijving"></textarea>
+        </li>
     </ul>
-    <div>
-        <label for="geboortedatum">Geboortedatum</label>
-        <input type="date" id="geboortedatum" name="geboortedatum">
-    </div>
 
-
-
-
-    <div>
+    <ul id="lekkereten">
+        <li>
         <label form="lekker-eten">Lekker eten:</label>
         <input type="checkbox" name="lekker-eten" value="patat">
         <span class="checkbox">Patat</span><br>
@@ -60,6 +59,12 @@
         <span class="checkbox">Bruine bonen</span><br>
         <input type="checkbox" name="lekker-eten" value="linzen">
         <span class="checkbox">Linzen</span>
+        </li>
+    </ul>
+
+    <div id="buttoms">
+    <button>Anuleer</button>
+    <button>OK</button>
     </div>
 </form>
 </body>

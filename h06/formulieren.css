@@ -27,3 +27,14 @@ input {
 select {
     width: 150px;
 }
+
+#lekkereten{
+    display: block;
+    float: top;
+}
+
+#buttoms{
+    margin: 20px;
+    padding: 20px;
+    float: right;
+}
