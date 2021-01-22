@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h06">
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h06 moet css nog goed doen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h05/BE.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/BE.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,8 @@
       <workItem from="1610984609525" duration="5018000" />
       <workItem from="1611043616460" duration="8619000" />
       <workItem from="1611132030477" duration="11659000" />
-      <workItem from="1611205346536" duration="4866000" />
+      <workItem from="1611205346536" duration="30310000" />
+      <workItem from="1611305883398" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -283,7 +285,77 @@
       <option name="project" value="LOCAL" />
       <updated>1611211044855</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="h06">
+      <created>1611211107813</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611211107813</updated>
+    </task>
+    <task id="LOCAL-00030" summary="h06">
+      <created>1611211405724</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611211405724</updated>
+    </task>
+    <task id="LOCAL-00031" summary="h06">
+      <created>1611211975581</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1611211975581</updated>
+    </task>
+    <task id="LOCAL-00032" summary="h06">
+      <created>1611212108413</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611212108413</updated>
+    </task>
+    <task id="LOCAL-00033" summary="h06">
+      <created>1611212907870</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1611212907870</updated>
+    </task>
+    <task id="LOCAL-00034" summary="h06">
+      <created>1611212942107</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1611212942107</updated>
+    </task>
+    <task id="LOCAL-00035" summary="h06">
+      <created>1611213038762</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1611213038762</updated>
+    </task>
+    <task id="LOCAL-00036" summary="bezig h06">
+      <created>1611224040333</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1611224040334</updated>
+    </task>
+    <task id="LOCAL-00037" summary="h06 moet css nog goed doen">
+      <created>1611224768139</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1611224768139</updated>
+    </task>
+    <task id="LOCAL-00038" summary="h06 moet css nog goed doen">
+      <created>1611264995732</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1611264995732</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,6 +386,8 @@
     <MESSAGE value="h04 dingen veranderen" />
     <MESSAGE value="h05 wel nog klein vraagje" />
     <MESSAGE value="h06" />
-    <option name="LAST_COMMIT_MESSAGE" value="h06" />
+    <MESSAGE value="bezig h06" />
+    <MESSAGE value="h06 moet css nog goed doen" />
+    <option name="LAST_COMMIT_MESSAGE" value="h06 moet css nog goed doen" />
   </component>
 </project>
