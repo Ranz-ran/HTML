@@ -1,14 +1,25 @@
 body{
     font-family: "Calibri Light";
+    padding: 20px;
+    width: 900px;
+}
+
+li{
+    width: 500px;
+}
+ul2{
+    width: 200px;
+    float: bottom;
 }
 form ul{
     list-style-type: none;
-    padding: 0;
+    padding: 1px;
 }
 form ul li {
     padding: 20px;
 }
 form ul li input{
+    width: 200px;
     position: absolute;
     left: 150px;
 }
@@ -19,22 +30,25 @@ form ul li input{
 }
 
 
-input {
-    width: 150px;
-}
-
-
 select {
     width: 150px;
 }
 
-#lekkereten{
-    display: block;
-    float: top;
-}
+
 
 #buttoms{
-    margin: 20px;
     padding: 20px;
+    padding-top: 500px;
     float: right;
+    width: 300px;
+
+}
+
+#lekkereten{
+    width: 300px;
+    float: right;
+}
+
+#links{
+    float: left;
 }

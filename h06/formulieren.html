@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>formulier</title>
@@ -7,6 +7,9 @@
 </head>
 <body>
 <header><h1>Voorbeeldformulier</h1></header>
+
+
+<div id="links">
 <form action="login.php" method="get">
     <ul>
         <li>
@@ -22,12 +25,10 @@
             <input type="text" name="achternaam" id="achternaam">
         </li>
         <li>
-            <label>Geslacht:</label>
-            <input type="radio" name="geslacht" value="man"/>
-            &nbsp;Man
-
-            <input type="radio" name="geslacht" value="vrouw"/>
-            &nbsp;Vrouw
+            <label>Geslacht:</label><br>
+            <input type="radio" name="geslacht" value="man"/>&nbsp;<p>Man</p>
+            <input type="radio" name="geslacht" value="vrouw"/> <P>Vrouw</P>
+            &nbsp;
         </li>
         <li>
             <label>Oog kleur:</label>
@@ -49,10 +50,16 @@
             <textarea name="omschrijving" id="omschrijving"></textarea>
         </li>
     </ul>
+</form>
+</div>
 
-    <ul id="lekkereten">
-        <li>
-        <label form="lekker-eten">Lekker eten:</label>
+
+
+    <div id="lekkereten">
+    <ul2>
+
+        <label form="lekker-eten">Lekker eten:</label><br>
+
         <input type="checkbox" name="lekker-eten" value="patat">
         <span class="checkbox">Patat</span><br>
         <input type="checkbox" name="lekker-eten" value="bruine bonen">
@@ -60,12 +67,13 @@
         <input type="checkbox" name="lekker-eten" value="linzen">
         <span class="checkbox">Linzen</span>
         </li>
-    </ul>
+    </ul2>
+    </div>
 
     <div id="buttoms">
     <button>Anuleer</button>
     <button>OK</button>
     </div>
-</form>
+
 </body>
 </html>
