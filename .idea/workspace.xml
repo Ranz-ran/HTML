@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="detais van h07">
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h07 af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h07/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h07/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h07/TrueM.css" beforeDir="false" afterPath="$PROJECT_DIR$/h07/TrueM.css" afterDir="false" />
@@ -94,7 +94,7 @@
       <workItem from="1611560798881" duration="17823000" />
       <workItem from="1611639616791" duration="15243000" />
       <workItem from="1611732565494" duration="1387000" />
-      <workItem from="1611737714333" duration="4867000" />
+      <workItem from="1611737714333" duration="7684000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -404,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611735200358</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="h07 af">
+      <created>1611753299898</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1611753299898</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +447,7 @@
     <MESSAGE value="h05 af" />
     <MESSAGE value="h06 af" />
     <MESSAGE value="detais van h07" />
-    <option name="LAST_COMMIT_MESSAGE" value="detais van h07" />
+    <MESSAGE value="h07 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h07 af" />
   </component>
 </project>

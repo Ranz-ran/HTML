@@ -95,6 +95,9 @@ body{
     header{
 
     }
+    .menu{
+        flex-wrap: wrap;
+    }
     #box1{
         float: left;
         max-width: 30%;
