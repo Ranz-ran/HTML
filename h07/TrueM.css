@@ -10,25 +10,33 @@ body{
     /* desktop */
     body{
         background-color: #c9e7f5;
-        flex-wrap: wrap;
+
     }
     header{
 
     }
     #box1{
         float: left;
+        max-width: 30%;
+
     }
     #box2{
-
+        float: right;
+        max-width: 30%;
     }
     #box3{
         float: right;
+        max-width: 30%;
+        margin-right: 40px;
     }
     #box4{
         float: left;
+        position: relative;
+        max-width: 30%;
     }
     #box5{
-
+        float: right;
+        max-width: 30%;
     }
     .header {
         background-color: #b3efd5;
@@ -57,7 +65,6 @@ body{
     }
 
     .boxen{
-        width: 30%;
         height: auto;
         margin: 20px;
     }
@@ -68,10 +75,89 @@ body{
         color: white;
         font-size: 10px;
         padding: 15px;
+        float: bottom;
+        width: 100%;
+        margin: auto;
+        clear: both;
     }
 }
-@media only screen and (min-width: 600px) {
-    /* For tablets: */
+
+
+
+
+@media only screen and (max-width: 250px) {
+    /* For tablets&phone: */
+
+    body{
+        background-color: #99fc9e;
+
+    }
+    header{
+
+    }
+    #box1{
+        float: left;
+        max-width: 30%;
+
+    }
+    #box2{
+        float: right;
+        max-width: 30%;
+    }
+    #box3{
+        float: right;
+        max-width: 30%;
+    }
+    #box4{
+        float: left;
+        position: relative;
+        max-width: 30%;
+    }
+    #box5{
+        float: right;
+        max-width: 30%;
+    }
+    .header {
+        background-color: #b3efd5;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        width: auto;
+    }
+
+    .menu ul {
+        list-style-type: none;
+        margin: 10px;
+        padding: 5px;
+        max-width: 600px;
+    }
+
+    .menu li {
+        padding: 10px;
+        margin-bottom: 7px;
+        background-color: aliceblue;
+        color: white;
+    }
+
+    .menu li:hover {
+        background-color: #a1c7d4;
+    }
+
+    .boxen{
+        height: auto;
+        margin: 20px;
+    }
+
+    footer {
+        background-color: darkgray;
+        color: white;
+        font-size: 10px;
+        padding: 15px;
+        float: bottom;
+        width: 100%;
+        margin: auto;
+        clear: both;
+    }
 }
 
 
