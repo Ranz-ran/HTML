@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h06 af">
-      <change beforePath="$PROJECT_DIR$/h05/BE.css" beforeDir="false" afterPath="$PROJECT_DIR$/h05/BE.css" afterDir="false" />
+    <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h05 af">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h07/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/TrueM.css" beforeDir="false" afterPath="$PROJECT_DIR$/h07/TrueM.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,9 @@
       <workItem from="1611305883398" duration="3878000" />
       <workItem from="1611418364495" duration="2736000" />
       <workItem from="1611487406106" duration="11922000" />
-      <workItem from="1611560798881" duration="17152000" />
+      <workItem from="1611560798881" duration="17823000" />
+      <workItem from="1611639616791" duration="15243000" />
+      <workItem from="1611732565494" duration="1322000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -385,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611602458712</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="h05 af">
+      <created>1611602847038</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1611602847038</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,6 +430,7 @@
     <MESSAGE value="bezig h06" />
     <MESSAGE value="h06 moet css nog goed doen" />
     <MESSAGE value="h06 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h06 af" />
+    <MESSAGE value="h05 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h05 af" />
   </component>
 </project>
