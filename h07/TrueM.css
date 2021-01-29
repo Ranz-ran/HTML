@@ -46,6 +46,10 @@ body{
         width: auto;
     }
 
+    .menu{
+        flex-wrap: wrap;
+    }
+
     .menu ul {
         list-style-type: none;
         margin: 10px;
