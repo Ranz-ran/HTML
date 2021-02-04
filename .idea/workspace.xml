@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54014044-dd28-4d1e-b46b-0f5ebd6ba8bd" name="Default Changelist" comment="h07 af">
+      <change afterPath="$PROJECT_DIR$/h07/TrueM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/TrueM2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/img/drums.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/img/gitaar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/img/saxofoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/img/trompet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h07/img/truemusic-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h07/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h07/TrueM.css" beforeDir="false" afterPath="$PROJECT_DIR$/h07/TrueM.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +32,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1lMrp5YgOGgzSaEUKRFviVypNBr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bier_hier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/h07/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -49,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\PhpstormProjects\HTML\h07\img" />
       <recent name="C:\Users\ritak\PhpstormProjects\HTML\h04\Image4" />
       <recent name="C:\Users\ritak\PhpstormProjects\HTML\h02\Image" />
     </key>
@@ -95,7 +112,12 @@
       <workItem from="1611732565494" duration="1387000" />
       <workItem from="1611737714333" duration="7873000" />
       <workItem from="1611826232908" duration="8000" />
-      <workItem from="1611928595785" duration="1019000" />
+      <workItem from="1611928595785" duration="1087000" />
+      <workItem from="1612259525113" duration="1934000" />
+      <workItem from="1612268725759" duration="18000" />
+      <workItem from="1612269202995" duration="883000" />
+      <workItem from="1612343395180" duration="12291000" />
+      <workItem from="1612418706940" duration="8444000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607601395935</created>
@@ -419,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611784350034</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="h07 af">
+      <created>1611931597336</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1611931597336</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
