@@ -1,59 +1,72 @@
-body{
-    padding: 15px;
-    width: 100%;
-    height: 100%;
-    background-color: antiquewhite;
-
-}
-main{
-    width: 90%;
+*{
+    box-sizing: border-box;
 }
 
-.title{
-    max-width: 400px;
-}
-
-.befotos{
-    width: 600px;
-    height: 400px;
-    padding: 10px;/*binnen kant van element bijv. <div>*/
-    float: left;
-    display: block;
-}
-
-.befotos2{
-    width: 550px;
-    height: 120px;
-    padding: 10px;
-    display: block;
-    float: right;
-}
-
-
-#blokje{
-    height: 400px;
-}
-#tekst{
-    width: 28%;
-    height: 600px;
-    float: left;
-}
-#tekst2{
-    width: 28%;
-    height: 600px;
+div#wrapper{
     margin: auto;
+    width: 1000px;
+    background-color: antiquewhite;
     padding: 20px;
-}
-#tekst3{
-    width: 28%;
-    height: 300px;
-    position: relative;
-    margin-left: 900px;
-    margin-top: -300px;
 }
 
 footer{
-    float: bottom;
+    margin: auto;
+    width: auto;
+    background-color: antiquewhite;
+}
+
+body{
+    font-family: "Calibri Light",sans-serif;
+    line-height: 24px;
+}
+
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+section.appel, section.visuals {
+    width: 50%;
+    float: left;
+}
+
+section.visuals{
+    text-align: right;
+}
+
+img.appel{
+    width: 497px;
+}
+
+img.visuals{
+    width: 447px;
+    margin-bottom: 13px;
+}
+
+img.article{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 303px;
+}
+
+article{
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+article:last-child{
+    padding-right: 0px;
+}
+
+footer{
+    background-color: gray;
+    height: 100px;
     color: white;
-    background-color: darkgray;
+    padding: 10px;
 }
